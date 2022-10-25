@@ -25,7 +25,7 @@
        { "id": 2, "Answer": "Dictionary example = new Hashtable();" },
        { "id": 3, "Answer": "example = {}" }
      ]},
-    { "id": 5, "Which is a function expression in javascript?", "Answer": 2,
+    { "id": 5, "Which is a function expression in javascript?", "Answer": 4,
      "Choices": [
        { "id": 1, "Answer": "var expression = () =>" },
        { "id": 2, "Answer": "function expression()" },
