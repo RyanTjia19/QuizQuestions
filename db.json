@@ -1,42 +1,11 @@
 {
-  "Simple": [
-    { "id": 1, "Question": "A java expression statement must end with a semicolon", "Answer": 1,
-     "Choices": [
-       { "id": 1, "Answer": "True" },
-       { "id": 2, "Answer": "False" }
-     ]},
-    { "id": 2, "In python, how do you get the last element of an array that have a size of 5?", "Answer": 3,
-     "Choices": [
-       { "id": 1, "Answer": "array[-3]" },
-       { "id": 2, "Answer": "array[0]" },
-       { "id": 3, "Answer": "array[-1]" },
-       { "id": 4, "Answer": "array[len(array)]" }
-     ]},
-    { "id": 3, "In a worst-case scenario, which of these Big O notation have the most complexity", "Answer": 2,
-     "Choices": [
-       { "id": 1, "Answer": "O(n)" },
-       { "id": 2, "Answer": "O(2^n)" },
-       { "id": 3, "Answer": "O(1)" },
-       { "id": 4, "Answer": "O(n^10)" }
-     ]},
-    { "id": 4, "Which of the following is the correct way to create a dictionary in C#?", "Answer": 1,
-     "Choices": [
-       { "id": 1, "Answer": "Dictionary<string, string> example = new Dictionary<string, string>();" },
-       { "id": 2, "Answer": "Dictionary example = new Hashtable();" },
-       { "id": 3, "Answer": "example = {}" }
-     ]},
-    { "id": 5, "Which is a function expression in javascript?", "Answer": 4,
-     "Choices": [
-       { "id": 1, "Answer": "var expression = () =>" },
-       { "id": 2, "Answer": "function expression()" },
-       { "id": 3, "Answer": "var expression = 'function';" },
-       { "id": 4, "Answer": "var expression = function()" }
-     ]}
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
   ],
-  
-  "Narrative": [
-  ],
-  
-  "Image": [
-  ]
+  "profile": {
+    "name": "typicode"
+  }
 }
