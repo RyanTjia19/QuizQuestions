@@ -5,11 +5,5 @@
     { "id": 3, "In a worst-case scenario, which of these Big O notation have the most complexity", "Answer": 2},
     { "id": 4, "Which of the following is the correct way to create a dictionary in C#?", "Answer": 1},
     { "id": 5, "Which is a function expression in javascript?", "Answer": 4}
-  ],
-  
-  "Narrative": [
-  ],
-  
-  "Image": [
   ]
 }
