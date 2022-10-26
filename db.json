@@ -12,7 +12,7 @@
        { "id": 3, "Answer": "array[-1]" },
        { "id": 4, "Answer": "array[len(array)]" }
      ]},
-    { "id": 3, "Question": "In a worst-case scenario, which of these Big O notation have the most complexity", "Answer": 2,
+    { "id": 3, "Question": "In a worst-case scenario, which of these Big O notation have the most complexity?", "Answer": 2,
      "Choices": [
        { "id": 1, "Answer": "O(n)" },
        { "id": 2, "Answer": "O(2^n)" },
