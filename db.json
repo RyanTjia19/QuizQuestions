@@ -1,6 +1,6 @@
 {
   "ComputerScience": [
-    { "Simple": [
+    { "id": 0, "Simple": [
       { "id": 0, "Question": "A java expression statement must end with a semicolon", "Answer": 0,
        "Choices": [
          { "id": 0, "Answer": "True" },
@@ -36,7 +36,7 @@
       ]
     },
     
-    { "Narrative": [
+    { "id": 1, "Narrative": [
       { "id": 0, "Question": "A program uses a for-loop to iterate through each element in an array of size N. What is the Big O notation in a worst-case scenario?", "Answer": 2,
        "Choices": [
          { "id": 0, "Answer": "O(1)" },
@@ -61,7 +61,7 @@
       ]
     },
     
-    { "Image": [
+    { "id": 2, "Image": [
       { "id": 0, "Question": "What is the outcome?", "Image": "Image1", "Answer": 3,
        "Choices": [
          { "id": 0, "Answer": "5" },
