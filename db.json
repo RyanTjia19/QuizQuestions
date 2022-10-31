@@ -1,6 +1,6 @@
 {
   "ComputerScience": [
-    { "id": 0, "Simple": [
+    { "Simple": [
       { "id": 0, "Question": "What is an incomplete binary tree?", "Answer": 0,
        "Choices": [
          { "id": 0, "Answer": "A parent node only have a right child node" },
@@ -39,7 +39,7 @@
       ]
     },
     
-    { "id": 1, "Narrative": [
+    { "Narrative": [
       { "id": 0, "Question": "A program uses a for-loop to iterate through each element in an array of size N. What is the Big O notation in a worst-case scenario?", "Answer": 2,
        "Choices": [
          { "id": 0, "Answer": "O(1)" },
@@ -64,7 +64,7 @@
       ]
     },
     
-    { "id": 2, "Image": [
+    { "Image": [
       { "id": 0, "Question": "What is the outcome?", "Image": "Image1.png", "Answer": 3,
         "Choices": [
          { "id": 0, "Answer": "5" },
@@ -96,7 +96,7 @@
       ]
     },
 
-    { "id": 3, "TF": [
+    { "TF": [
       { "id": 0, "Question": "A java expression statement must end with a semicolon", "Answer": 0,
        "Choices": [
          { "id": 0, "Answer": "True" },
@@ -125,7 +125,7 @@
       ]
     },
 
-    { "id": 4, "Lists": [
+    { "Lists": [
       { "id": 0, "Frag1": "In BST, the right child node is ", "Frag2": " left child node", "Answer": 0,
         "Choices": [
          { "id": 0, "Answer": "greater than" },
