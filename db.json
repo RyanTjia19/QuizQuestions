@@ -79,14 +79,14 @@
          { "id": 2, "Answer": "O(1)" },
          { "id": 3, "Answer": "O(N^3)" }
        ]},
-      { "id": 2, "Question": "Given this BST, where will '15' be when inserted?", "Image": "Image3", "Answer": 0,
+      { "id": 2, "Question": "Given this BST, where will '15' be when inserted?", "Image": "Image3.png", "Answer": 0,
         "Choices": [
          { "id": 0, "Answer": "Left child node of 16" },
          { "id": 1, "Answer": "Left child node of 18" },
          { "id": 2, "Answer": "Right child node of 3" },
          { "id": 3, "Answer": "Left child node of 14" }
        ]},
-      { "id": 3, "Question": "In python, what will be printed?", "Image": "Image3", "Answer": 2,
+      { "id": 3, "Question": "In python, what will be printed?", "Image": "Image4.png", "Answer": 2,
         "Choices": [
          { "id": 0, "Answer": "1 + 5 + hello" },
          { "id": 1, "Answer": "{x} + y + {z}" },
