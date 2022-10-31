@@ -97,31 +97,11 @@
     },
 
     { "TF": [
-      { "id": 0, "Question": "A java expression statement must end with a semicolon", "Answer": 0,
-       "Choices": [
-         { "id": 0, "Answer": "True" },
-         { "id": 1, "Answer": "False" }
-       ]},
-       { "id": 1, "Question": "Max-heap is where the child node is greater than the parent node", "Answer": 1,
-       "Choices": [
-         { "id": 0, "Answer": "True" },
-         { "id": 1, "Answer": "False" }
-       ]},
-       { "id": 2, "Question": "A set does not allow duplicates", "Answer": 0,
-       "Choices": [
-         { "id": 0, "Answer": "True" },
-         { "id": 1, "Answer": "False" }
-       ]},
-       { "id": 3, "Question": "A queue is 'First In First Out'", "Answer": 0,
-       "Choices": [
-         { "id": 0, "Answer": "True" },
-         { "id": 1, "Answer": "False" }
-       ]},
-       { "id": 4, "Question": "In python, 'else if' is a valid syntax", "Answer": 1,
-       "Choices": [
-         { "id": 0, "Answer": "True" },
-         { "id": 1, "Answer": "False" }
-       ]}
+      { "id": 0, "Question": "A java expression statement must end with a semicolon", "Answer": 0},
+      { "id": 1, "Question": "Max-heap is where the child node is greater than the parent node", "Answer": 1},
+      { "id": 2, "Question": "A set does not allow duplicates", "Answer": 0},
+      { "id": 3, "Question": "A queue is 'First In First Out'", "Answer": 0},
+      { "id": 4, "Question": "In python, 'else if' is a valid syntax", "Answer": 1}
       ]
     },
 
