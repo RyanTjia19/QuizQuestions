@@ -163,16 +163,6 @@
       { "id": 0, "Question": "√3 is a rational", "Answer": 1,
       "Note": "Rational numbers are numbers that can be expressed as a fraction. Or in the form pq, where q have to be greater than 0."}
       ]
-    },
-
-    { "Lists": [
-      { "id": 0, "Frag1": "The data structure ", "Frag2": " allows duplicate", "Answer": 1,
-        "Choices": [
-         { "id": 0, "Answer": "Set" },
-         { "id": 1, "Answer": "List" },
-         { "id": 2, "Answer": "Map" }
-       ], "Note": "A set does not allow duplicates, and each key in a map must be unique. This leaves list as the data structure that allows duplicate values"}
-      ]
     }
   ]
 }
