@@ -130,9 +130,9 @@
   ],
 
   "Math": [
-{ "MC": [
+    { "MC": [
       { "id": 0, "Question": "Which of the following is a prime number?", "Answer": 1,
-       "Choices": [
+        "Choices": [
          { "id": 0, "Answer": "21" },
          { "id": 1, "Answer": "7" },
          { "id": 2, "Answer": "141" },
@@ -156,11 +156,13 @@
          { "id": 2, "Answer": "20" },
          { "id": 3, "Answer": "10" }
        ], "Note": "The variable 'number' will be incremented by 'x' and 'x' will always increase until it does not fit the condition in the for-loop. This is what the expression would look, 0 + 1 + 2 + 3 + 4"}
+      ]
     },
 
     { "TF": [
       { "id": 0, "Question": "√3 is a rational", "Answer": 1,
       "Note": "Rational numbers are numbers that can be expressed as a fraction. Or in the form pq, where q have to be greater than 0."}
+      ]
     },
 
     { "Lists": [
