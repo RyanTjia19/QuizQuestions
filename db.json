@@ -127,25 +127,5 @@
        ], "Note": "A set does not allow duplicates, and each key in a map must be unique. This leaves list as the data structure that allows duplicate values"}
       ]
     }
-  ],
-
-  "Math": [
-    { "MC": [
-      { "id": 0, "Question": "Which of the following is a prime number?", "Answer": 1,
-        "Choices": [
-         { "id": 0, "Answer": "21" },
-         { "id": 1, "Answer": "7" },
-         { "id": 2, "Answer": "141" },
-         { "id": 3, "Answer": "98" }
-       ], "Note": "A prime number is an integer that is cannot be divided by an integer other than 1."},
-      { "id": 1, "Question": "Mary have a balance of $2,000 in the bank. If she deposited $175 per week, how much would she have on the 8th week?", "Answer": 1,
-        "Choices": [
-         { "id": 0, "Answer": "$2,000" },
-         { "id": 1, "Answer": "$3,400" },
-         { "id": 2, "Answer": "$1,750" },
-         { "id": 3, "Answer": "$3,225" }
-       ], "Note": "This problem can be rewritten in the linear equation 'y = 175x + 2000', where 'x' is the number of weeks, '175' is the amount of money she deposited per week, and '2000' is the amount she starts with. If we were to substitute'x' with 8, we will get the result of 3,400."}
-      ]
-    }
   ]
 }
