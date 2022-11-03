@@ -162,7 +162,7 @@
     { "TF": [
       { "id": 0, "Question": "√3 is a rational", "Answer": 1,
       "Note": "Rational numbers are numbers that can be expressed as a fraction. Or in the form pq, where q have to be greater than 0."}
-      ]
+      ],
     }
   ]
 }
